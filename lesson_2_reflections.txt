@@ -28,6 +28,11 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+  I am a visual learner, so this helps because command lines do not always
+  provide a good visual for things such as this. Instead of just looking at the
+  logs, now you have a way to visualize your entire structure of a project to
+  better understand what is happening.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 

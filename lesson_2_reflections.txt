@@ -13,6 +13,10 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+  Whenever you make a significant change, you can use the staging area to track
+  this and then commit this change. This way you will have this new version of
+  your project, as well as any older versions in case you decide to revert back.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 

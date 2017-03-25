@@ -10,3 +10,15 @@ automatically stay up-to-date with your remote repository?
   Pulling your changes in manually allows you to control when/how to keep your
   local files up-to-date. Having Git do this automatically could cause you to
   have more commits/versions than you may want.
+
+Describe the differences between forks, clones, and branches. When would you use
+one instead of another?
+
+  A clone is basically making a copy of a repository either on your local computer
+  or on GitHub (or both). A fork is similar to a clone, but you only fork
+  repository's that you do not have permissions to edit. So you would typically
+  be "forking" someone else's repository. A branch is a new "leg" of your project.
+  For example, your master branch will almost always be your main project. But you
+  can still have other branches that move away from your master project so that
+  you can make changes that will not affect your master project until you have
+  perfected your changes and it is ready to be implemented.

@@ -30,3 +30,15 @@ stored locally?
   previous version. For example, you broke your code to a "point of no return"
   and it would be easier to start back from that point rather than try to fix it
   yourself.
+
+How would you collaborate without using Git or GitHub? What would be easier, and
+what would be harder?
+
+  I guess this all depends on who you were working and if you worked in the same
+  office or not. Most communication lately with co-workers happens via email. So
+  I would assume that this would be the most common for a communication between
+  co-workers without Git or GitHub. I think that both forms are pretty equal in
+  difficulty. GitHub sends an email with a link for the user to view some
+  proposed changes which you could also manually do in a manually created email.
+  However, it is definitely nice how Git and Github work to take some of the
+  manual effort out.

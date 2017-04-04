@@ -42,3 +42,15 @@ what would be harder?
   proposed changes which you could also manually do in a manually created email.
   However, it is definitely nice how Git and Github work to take some of the
   manual effort out.
+
+When would you want to make changes in a separate branch rather than directly in
+master? What benefits does each approach have?
+
+  You would want to have a separate branch when collaborating changes that more
+  than one user is making. This allows for multiple changes to be made without
+  affecting your master branch. It also makes it easy to confirm everyones changes
+  and then merge all of the finished changes into master at the end. You can still
+  perform this collaboration on your master branch, but every change will affect
+  your product which can be a good or bad thing. If a change breaks your main
+  branch it may cause critical impact that will need fixing asap. But it can also
+  be a good thing if you want your change to directly affect your main product.
